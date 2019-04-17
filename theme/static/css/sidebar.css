@@ -32,17 +32,18 @@
 #sidebar-collapse {
     display: none;
 
+    cursor: pointer;
     right: 0;
     margin-left: 0;
 }
 
 @media(max-width: 768px) {
     .sidebar {
-        margin-left: -18em;
+        display: none;
     }
 
     .sidebar.active {
-        margin-left: 0;
+        display: inline-block;
     }
 
     #sidebar-collapse {
