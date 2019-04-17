@@ -1,10 +1,14 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
-from __future__ import unicode_literals
+from os import environ
 
 AUTHOR = 'Me'
 SITENAME = 'Pelican static test.'
-SITEURL = 'https://jptiz.github.io/pelican-test'
+
+if environ.get('LOCAL', '0') == '1':
+    SITEURL = ''
+else:
+    SITEURL = 'https://jptiz.github.io/pelican-test'
 
 PATH = 'content'
 
