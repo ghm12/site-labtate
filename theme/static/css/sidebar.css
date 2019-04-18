@@ -38,12 +38,22 @@
 }
 
 @media(max-width: 768px) {
+    .container {
+        flex-direction: column;
+    }
+
     .sidebar {
+        margin: 0;
+        min-height: 0;
         display: none;
     }
 
+    .sidebar .nav-title {
+        padding-top: 1em;
+    }
+
     .sidebar.active {
-        display: inline-block;
+        display: block;
     }
 
     #sidebar-collapse {

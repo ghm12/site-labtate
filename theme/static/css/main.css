@@ -5,7 +5,12 @@ body {
 
 .container {
     margin: auto;
+    display: flex !important;
+}
+
+.content {
     padding: 2em;
+    min-width: 100%;
 }
 
 .navbar {
@@ -18,9 +23,7 @@ body {
 }
 
 .wrapper {
-    display: flex;
     width: 100%;
-    align-items: stretch;
 
     margin: 0;
 }
