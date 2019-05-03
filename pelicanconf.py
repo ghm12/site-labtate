@@ -3,7 +3,8 @@
 from os import environ
 
 AUTHOR = 'Me'
-SITENAME = 'Pelican static test.'
+SITENAME = 'LABTATE'
+THEME = 'theme'
 
 if environ.get('LOCAL', '0') == '1':
     SITEURL = ''
