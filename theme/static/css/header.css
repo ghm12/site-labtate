@@ -15,9 +15,11 @@ header {
 #logo-labtate {
     margin: 1em;
     margin-left: 2em;
+    max-height: 6em;
 }
 
 #logo-cfh {
     margin: 1em;
     margin-right: 2em;
+    max-height: 6em;
 }
