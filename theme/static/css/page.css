@@ -1,0 +1,11 @@
+left {
+    float: left;
+}
+
+ball {
+    border-radius: 50%;
+    max-width: 3em;
+    max-height: 3em;
+    width: auto;
+    height: auto;
+}
