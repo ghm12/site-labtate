@@ -19,7 +19,13 @@
     <link rel="stylesheet" href="{{ SITEURL }}/theme/css/sidebar.css">
     <link rel="stylesheet" href="{{ SITEURL }}/theme/css/header.css">
 
-    <title>{% block title %}{% endblock %}</title>
+    {% if page %}
+    <link rel="stylesheet" href="{{ SITEURL }}/theme/css/page.css">
+    {% elif article %}
+    <link rel="stylesheet" href="{{ SITEURL }}/theme/css/article.css">
+    {% endif %}
+
+    <title>{% block title %} | {{ SITENAME }} {% endblock %}</title>
 </head>
 <body>
     {% include 'header.html' %}
@@ -39,7 +45,7 @@
         <div class="container">
             {% include 'navbar.html' %}
             <main class="content" role="main">
-            {% block content %}{% endblock %}
+                {% block content %}{% endblock %}
             </main>
         </div>
     </div>
