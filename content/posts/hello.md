@@ -4,5 +4,3 @@ Category: Testes
 Slug: ola-mundo
 
 Sejam todos bem-vindos ao meu mundo, meus caros.
-
-Teste.
