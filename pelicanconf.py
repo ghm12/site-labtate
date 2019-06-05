@@ -40,3 +40,8 @@ DEFAULT_PAGINATION = False
 #RELATIVE_URLS = True
 
 STATIC_PATHS = ['img']
+
+PLUGIN_PATHS = ['pelican-plugins']
+PLUGINS = [
+    'jinja2content',
+]
