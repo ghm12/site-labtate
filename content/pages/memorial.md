@@ -1,6 +1,8 @@
 Title: Memorial
 Slug: memorial
 
+Conheça quem já fez parte do LABTATE.
+
 Alunos da Graduação
 -------------------
 
@@ -72,17 +74,6 @@ Alunos de Mestrado
             <b>Ricardo Gutierrez</b>
             <br>
             Instrumentos Astronômicos
-        </div>
-    </div>
-
-    <div class="person">
-        <div
-            class="left ball"
-            alt="Foto de Tarso Dornelles"
-            style="background-image: url('/img/pessoal/luiz.jpg')"
-        ></div>
-        <div class="left text">
-            <b>Tarso Dornelles</b>
         </div>
     </div>
 </div>
