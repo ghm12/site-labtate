@@ -9,7 +9,7 @@ THEME = 'theme'
 if environ.get('LOCAL', '0') == '1':
     SITEURL = ''
 else:
-    SITEURL = 'https://jptiz.github.io/pelican-test'
+    SITEURL = 'https://jptiz.github.io/site-labtate'
 
 PATH = 'content'
 
