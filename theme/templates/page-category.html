@@ -1,0 +1,44 @@
+{% extends "page.html" %}
+
+{% block title %}
+    {{ page.title }}
+{% endblock %}
+
+{% block content %}
+<div class="row">
+    <div class="col-md-8">
+        <h1>{{ page.title }}</h1>
+        <h2>Projetos</h2>
+        <ul>
+            {% for article in articles -%}
+                {%- if article.section == page.section
+                    and article.category == 'projetos' -%}
+            <li>
+                <a href="{{ SITEURL }}/{{ article.slug }}">
+                    {{ article.title }}
+                </a>
+                <br>
+                {{ article.subtitle }}
+            </li>
+                {%- endif -%}
+            {%- endfor %}
+        </ul>
+
+        <h2>Publicações</h2>
+        <ul>
+            {% for article in articles -%}
+                {%- if article.section == page.section
+                    and article.category == 'publicações' -%}
+            <li>
+                <a href="{{ SITEURL }}/{{ article.metadata['type'] }}/{{ article.slug }}">
+                    {{ article.title }}
+                </a>
+            </li>
+                {%- endif -%}
+            {%- endfor %}
+        </ul>
+
+        {{ page.content }}
+    </div>
+</div>
+{% endblock %}
