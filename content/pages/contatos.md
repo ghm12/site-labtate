@@ -1,5 +1,6 @@
 Title: Contatos e Redes Sociais
 Slug: contatos
+Category: sobre
 
 
 Contatos

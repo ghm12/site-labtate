@@ -14,7 +14,7 @@
                 {%- if article.section == page.section
                     and article.category == 'projetos' -%}
             <li>
-                <a href="{{ SITEURL }}/{{ article.slug }}">
+                <a href="{{ SITEURL }}/{{ article.url }}">
                     {{ article.title }}
                 </a>
                 <br>
@@ -30,7 +30,7 @@
                 {%- if article.section == page.section
                     and article.category == 'publicações' -%}
             <li>
-                <a href="{{ SITEURL }}/{{ article.metadata['type'] }}/{{ article.slug }}">
+                <a href="{{ SITEURL }}/{{ article.section }}/{{ article.slug }}">
                     {{ article.title }}
                 </a>
             </li>

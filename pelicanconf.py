@@ -29,6 +29,12 @@ DEFAULT_PAGINATION = False
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
+# Override URLs
+ARTICLE_URL = '{category}/{slug}.html'
+ARTICLE_SAVE_AS = '{category}/{slug}.html'
+PAGE_URL = '{category}/{slug}.html'
+PAGE_SAVE_AS = '{category}/{slug}.html'
+
 STATIC_PATHS = ['img']
 
 PLUGIN_PATHS = ['pelican-plugins']

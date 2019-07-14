@@ -1,5 +1,6 @@
 Title: Memorial
 Slug: memorial
+Category: sobre
 
 Conheça quem já fez parte do LABTATE.
 

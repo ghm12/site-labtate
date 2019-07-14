@@ -1,5 +1,6 @@
 Title: Quem somos
 Slug: quem-somos
+Category: sobre
 
 {%
     macro person(name, prefix='', pic='sem-foto.jpg', occup='', cv=None)
