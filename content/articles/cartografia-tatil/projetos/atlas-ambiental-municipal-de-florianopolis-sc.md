@@ -1,5 +1,5 @@
 Title: Atlas Ambiental do Município de Florianópolis - SC
-Category: cartografia-tatil
+Section: cartografia-tatil
 
 ## Sobre
 

@@ -1,5 +1,6 @@
 Title: Construção e adaptação de recursos didáticos para deficientes visuais no ensino superior do curso de graduação em geografia.
 Slug: construcao-e-adaptacao-de-recursos-didaticos-para-deficientes-visuais-no-ensino-superior-do-curso-de-graduacao-de-geografia
+Section: cartografia-tatil
 
 ## Sobre
 

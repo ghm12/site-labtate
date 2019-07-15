@@ -1,5 +1,6 @@
 Title: Linguagem cartográfica: desenvolvimento de métodos de ensino e concepção de material didático em multimídia interativa
 Slug: linguagem-cartografica-desenvolvimento-de-metodos-de-ensino-e-concepcao-de-material-didatico-em-multimidia-interativa
+Section: cartografia-tatil
 
 ## Sobre
 
