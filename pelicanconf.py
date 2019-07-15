@@ -13,9 +13,11 @@ else:
 
 PATH = 'content'
 
+# Language/Locale settings
+DEFAULT_LANG = 'pt-br'
 TIMEZONE = 'America/Sao_Paulo'
-
-DEFAULT_LANG = 'en'
+LOCALE = ('pt_BR')
+DEFAULT_DATE_FORMAT = '%-d/%-m/%-y às %-Hh%Mmin'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None

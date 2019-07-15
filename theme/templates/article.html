@@ -9,10 +9,7 @@
     <div class="col-md-8">
         <h1>{{ article.title }}</h1>
         <label>
-            Postado em <strong>
-                {{ article.date.day }}/{{article.date.month}}/{{article.date.year}}
-                às {{article.date.hour}}h{{article.date.minute}}
-            </strong>
+            Postado em <strong>{{ article.locale_date }}</strong>
         </label>
         {{ article.content }}
     </div>
