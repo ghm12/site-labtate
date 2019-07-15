@@ -8,7 +8,12 @@
 <div class="row">
     <div class="col-md-8">
         <h1>{{ article.title }}</h1>
-        <label>Posted on <strong>{{ article.date }}</strong></label>
+        <label>
+            Postado em <strong>
+                {{ article.date.day }}/{{article.date.month}}/{{article.date.year}}
+                às {{article.date.hour}}h{{article.date.minute}}
+            </strong>
+        </label>
         {{ article.content }}
     </div>
 </div>
