@@ -46,3 +46,8 @@ PLUGIN_PATHS = ['pelican-plugins']
 PLUGINS = [
     'jinja2content',
 ]
+
+# Custom Filters
+JINJA_FILTERS = {
+    'load_pub': loader.load_pub
+}
