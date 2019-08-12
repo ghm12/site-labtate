@@ -49,5 +49,4 @@ PLUGINS = [
 
 # Custom Filters
 JINJA_FILTERS = {
-    'load_pub': loader.load_pub
 }
