@@ -1,5 +1,5 @@
 title: Os desafios da acessibilidade na Web: projetar incluindo deficientes visuais.
 other:  7ºCongresso Internacional de Usabilidades e Interfaces Humano-Computador, 2007, Balneário Camboriú. Congresso Internacional de Usabilidade e Interfaces Humano-Computador, 2007.
-url: 
+url: Os Desafios da Acessibilidade na Web - Projetar Incluindo Usuários Portadores de Deficiência Visual.pdf
 urltype: PDF
 section: cartografia-tatil
