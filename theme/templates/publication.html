@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+
+{% block title %}
+    {{ article.title }}
+{% endblock %}
+
+{% block content %}
+<div class="row">
+    <div class="col-md-8">
+        <h1>{{ article.title }}</h1>
+        <label>
+            Postado em <strong>{{ article.locale_date }}</strong>
+        </label>
+
+        <ul>
+            <li>Link{%- if article.urltype %}
+                ({{article.urltype}})
+                {%- endif -%}: <a href="{{ article.url }}">{{ article.url }}</a></li>
+        </ul>
+    </div>
+</div>
+{% endblock %}
