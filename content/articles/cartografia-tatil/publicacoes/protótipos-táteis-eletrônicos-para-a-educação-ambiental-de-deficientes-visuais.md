@@ -3,3 +3,5 @@ other:  4° Congresso de Extensão Universitária - CBEU - 2009 - Standartizatio
 url: Protótipos Táteis e Eletrônicos para Educação Ambiental de Deficientes Visuais.pdf
 urltype: PDF
 section: cartografia-tatil
+save_as: cartografia-tatil/publicacoes/prototipos-tateis-eletronicos-para-a-educacao-ambiental-de-deficientes-visuais.html
+template: publication

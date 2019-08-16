@@ -3,3 +3,5 @@ other: XXV Congresso Brasileiro de Cartografia, III Congresso Brasileiro de Geop
 url: Aprender e Ensinar Cartografia - Material Didático Acessível Na Web.pdf
 urltype: PDF
 section: cartografia-tatil
+save_as: cartografia-tatil/publicacoes/aprenderensinar-cartografia-material-didatico-acessivel-na-web.html
+template: publication

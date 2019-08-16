@@ -3,3 +3,5 @@ other:  Boletim de Geografia, v. 29, n. 1,p. 5-16, 2012.
 url: Os Desafios do Professor Frente o Ensino de Geografia e a Inclusão de Estudantes Cegos.pdf
 urltype: PDF
 section: cartografia-tatil
+save_as: cartografia-tatil/publicacoes/os-desafios-do-professor-frente-o-ensino-de-geografia-e-a-inclusao-de-estudantes-cegos.html
+template: publication

@@ -31,7 +31,7 @@ AUTHOR_FEED_RSS = None
 DEFAULT_PAGINATION = False
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+# RELATIVE_URLS = True
 
 # Override URLs
 ARTICLE_URL = '{category}/{slug}.html'
@@ -40,7 +40,7 @@ PAGE_URL = '{category}/{slug}.html'
 PAGE_SAVE_AS = '{category}/{slug}.html'
 
 # Paths, paths and paths
-STATIC_PATHS = ['img']
+STATIC_PATHS = ['img', 'materiais']
 
 PLUGIN_PATHS = ['pelican-plugins']
 PLUGINS = [
@@ -48,5 +48,5 @@ PLUGINS = [
 ]
 
 # Custom Filters
-JINJA_FILTERS = {
-}
+# JINJA_FILTERS = {
+# }

@@ -3,3 +3,5 @@ other:  7ºCongresso Internacional de Usabilidades e Interfaces Humano-Computado
 url: Os Desafios da Acessibilidade na Web - Projetar Incluindo Usuários Portadores de Deficiência Visual.pdf
 urltype: PDF
 section: cartografia-tatil
+save_as: cartografia-tatil/publicacoes/os-desafios-da-acessibilidade-na-web-projetar-incluindo-deficientes-visuais.html
+template: publication

@@ -1,5 +1,7 @@
 {% extends "base.html" %}
 
+{% set url = SITEURL + '/materiais/' + '/publicacoes/' + article.url %}
+
 {% block title %}
     {{ article.title }}
 {% endblock %}
@@ -13,9 +15,14 @@
         </label>
 
         <ul>
-            <li>Link{%- if article.urltype %}
-                ({{article.urltype}})
-                {%- endif -%}: <a href="{{ article.url }}">{{ article.url }}</a></li>
+            <li><b>Publicado em:</b> {{ article.other }}</li>
+            {% if article.url %}
+            <li><b>Link{%- if article.urltype %}
+                ({{ article.urltype }})
+                {%- endif -%}:</b> <a href="{{ url }}">{{ article.url }}</a></li>
+            {% else %}
+            <li>Link indisponível.</li>
+            {% endif %}
         </ul>
     </div>
 </div>
