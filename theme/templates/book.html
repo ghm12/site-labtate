@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+
+{% set summary_url = SITEURL + '/materiais/livros/' + article.summary_url %}
+
+{% block title %}
+    {{ article.title }}
+{% endblock %}
+
+{% block content %}
+<div class="row">
+    <div class="col-md-8">
+        <h1>{{ article.title }}</h1>
+        <label>
+            Postado em <strong>{{ article.locale_date }}</strong>
+        </label>
+
+        <br>
+        {% if article.cover %}
+        <img style="max-width: 16em;" src="{{ SITEURL }}/materiais/livros/{{ article.cover }}" alt="Capa - {{ article.title }}"/>
+        {% endif %}
+        <br>
+
+        <ul>
+            {% if article.summary_url %}
+            <li><b>Sumário (PDF):</b> <a href="{{ summary_url }}">{{ article.summary_url }}</a></li>
+            {% else %}
+            <li>Link indisponível.</li>
+            {% endif %}
+        </ul>
+    </div>
+</div>
+{% endblock %}

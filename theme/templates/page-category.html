@@ -39,6 +39,21 @@
         </ul>
 
         {{ page.content }}
+
+        <h2>Livros</h2>
+
+        <ul>
+            {% for article in articles -%}
+                {%- if article.section == page.section
+                    and article.category == 'livros' -%}
+            <li>
+                <a href="{{ SITEURL }}/{{ article.section }}/livros/{{ article.slug }}">
+                    {{ article.title }}
+                </a>
+            </li>
+                {%- endif -%}
+            {%- endfor %}
+        </ul>
     </div>
 </div>
 {% endblock %}
