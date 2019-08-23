@@ -1,6 +1,12 @@
 {% extends "base.html" %}
 
+{% if article.summary_url %}
 {% set summary_url = SITEURL + '/materiais/livros/' + article.summary_url %}
+{% endif %}
+
+{% if article.chapter_url %}
+{% set chapter_url = SITEURL + '/materiais/livros/' + article.chapter_url %}
+{% endif %}
 
 {% block title %}
     {{ article.title }}
@@ -21,10 +27,16 @@
         <br>
 
         <ul>
+            {% if article.chapter_url %}
+            <li><b>Capítulo (PDF):</b> <a href="{{ chapter_url }}">{{ article.chapter_url }}</a></li>
+            {% else %}
+            <li>Nenhum capítulo disponível.</li>
+            {% endif %}
+
             {% if article.summary_url %}
             <li><b>Sumário (PDF):</b> <a href="{{ summary_url }}">{{ article.summary_url }}</a></li>
             {% else %}
-            <li>Link indisponível.</li>
+            <li>Link do sumário indisponível.</li>
             {% endif %}
         </ul>
     </div>
