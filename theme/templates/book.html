@@ -27,6 +27,10 @@
         <br>
 
         <ul>
+            {% if article.other %}
+            <li><b>Publicado em: </b>{{ article.other }}</li>
+            {% endif %}
+
             {% if article.chapter_url %}
             <li><b>Capítulo (PDF):</b> <a href="{{ chapter_url }}">{{ article.chapter_url }}</a></li>
             {% else %}
