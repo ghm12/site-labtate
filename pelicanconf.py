@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from os import environ
+from functools import partial
 
 AUTHOR = 'João Paulo Taylor Ienczak Zanette'
 SITENAME = 'LABTATE'
@@ -48,5 +49,6 @@ PLUGINS = [
 ]
 
 # Custom Filters
-# JINJA_FILTERS = {
-# }
+JINJA_FILTERS = {
+    'sort_by_name': partial(sorted, key=lambda article: article.title)
+}

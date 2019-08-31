@@ -14,6 +14,14 @@ class Article:
     section: str = 'cartografia-tatil'
 
 
+def as_path(title: str):
+    return (
+        title.lower()
+            .replace(' ', '-')
+            .replace('/', '-')
+    )
+
+
 def read_file(path: Path) -> str:
     with open(path) as f:
         return f.read()
@@ -47,15 +55,15 @@ if __name__ == '__main__':
             continue
 
         print(line)
-        title, other = line.split('.', maxsplit=1)
+        title, *other = line.split('.', maxsplit=1)
 
-        other = other.replace('In: ', '')
+        other = ''.join(other).replace('In: ', '')
 
         article = Article(
             title=f'{title}.',
             other=other,
-            section='cartografia-tatil'
+            section='cartografia-escolar'
         )
 
     for article in articles:
-        save_article(article, f'pubs/{article.title.lower().replace(" ", "-")}md')
+        save_article(article, f'pubs/{as_path(article.title)}md')

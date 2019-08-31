@@ -26,13 +26,19 @@
 
         <h2>Publicações</h2>
         <ul>
-            {% for article in articles -%}
+            {% for article in articles|sort_by_name -%}
                 {%- if article.section == page.section
                     and article.category == 'publicações' -%}
             <li>
+                {%- if article.section == 'cartografia-escolar' -%}
+                <a href="{{ SITEURL }}/publicacoes/{{ article.slug }}">
+                    {{ article.title }}
+                </a>
+                {%- else -%}
                 <a href="{{ SITEURL }}/{{ article.section }}/publicacoes/{{ article.slug }}">
                     {{ article.title }}
                 </a>
+                {%- endif -%}
             </li>
                 {%- endif -%}
             {%- endfor %}
