@@ -38,3 +38,15 @@ body {
     border: #408eff;
     box-shadow: none;
 }
+
+.video {
+    max-width: 720px;
+    max-height: 540px;
+}
+
+@media(max-width: 340px) {
+    .video {
+        max-width: 120px;
+        max-height: 90px;
+    }
+}
