@@ -48,7 +48,31 @@ PLUGINS = [
     'jinja2content',
 ]
 
+
 # Custom Filters
+def filter_section(articles, section=''):
+    if not section:
+        return articles
+
+    return [
+        article
+        for article in articles
+        if 'section' in article.metadata and article.section == section
+    ]
+
+
+def filter_category(articles, category=''):
+    if not category:
+        return articles
+
+    return [
+        article for article in articles
+        if article.category == category
+    ]
+
+
 JINJA_FILTERS = {
-    'sort_by_name': partial(sorted, key=lambda article: article.title)
+    'sort_by_name': partial(sorted, key=lambda article: article.title),
+    'filter_section': filter_section,
+    'filter_category': filter_category,
 }
