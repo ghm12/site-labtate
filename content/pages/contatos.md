@@ -11,10 +11,10 @@ E-mail: <laboratoriotatil@gmail.com>
 Redes Sociais
 -------------
 
-![Ícone do Facebook](/img/facebook.ico)
+![Ícone do Facebook]({{ SITEURL }}/img/facebook.ico)
 [Facebook](https://www.facebook.com/LaboratorioDeCartografiaTatilEEscolar)
 
-![Ícone do Instagram](/img/instagram.ico)
+![Ícone do Instagram]({{ SITEURL }}/img/instagram.ico)
 [Instagram](https://instagram.com/labtateufsc)
 
 Localização
