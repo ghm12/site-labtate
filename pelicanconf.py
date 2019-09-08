@@ -2,6 +2,8 @@
 # -*- coding: utf-8 -*- #
 from os import environ
 from functools import partial
+from typing import Any, Callable, List
+from pelican.contents import Article
 
 AUTHOR = 'João Paulo Taylor Ienczak Zanette'
 SITENAME = 'LABTATE'
@@ -50,29 +52,48 @@ PLUGINS = [
 
 
 # Custom Filters
-def filter_section(articles, section=''):
-    if not section:
+def filter_articles(
+    articles: List[Article],
+    value: Any,
+    comparator: Callable[[Article, Any], bool]
+):
+    if not value:
         return articles
 
     return [
         article
         for article in articles
-        if 'section' in article.metadata and article.section == section
+        if comparator(article, value)
     ]
+
+
+def filter_section(articles, section=''):
+    return filter_articles(
+        articles,
+        section,
+        lambda art, s: 'section' in art.metadata and art.section == s
+    )
 
 
 def filter_category(articles, category=''):
-    if not category:
-        return articles
+    return filter_articles(
+        articles,
+        category,
+        lambda art, c: art.category == c
+    )
 
-    return [
-        article for article in articles
-        if article.category == category
-    ]
+
+def filter_tag(articles, tag=''):
+    return filter_articles(
+        articles,
+        tag,
+        lambda art, tag: 'tags' in art.metadata and tag in art.tags
+    )
 
 
 JINJA_FILTERS = {
     'sort_by_name': partial(sorted, key=lambda article: article.title),
     'filter_section': filter_section,
     'filter_category': filter_category,
+    'filter_tag': filter_tag,
 }

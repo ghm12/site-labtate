@@ -1,0 +1,89 @@
+{% extends "page.html" %}
+
+{% set categories = {} %}
+
+{% set section_articles = articles|filter_section(section=page.section)|sort_by_name %}
+{% set section_articles = section_articles|filter_tag(tag='recursos-didaticos') %}
+{% set projects = section_articles|filter_category(category='projetos') %}
+{% set publications = section_articles|filter_category(category='publicações') %}
+{% set monographies = section_articles|filter_category(category='monografias') %}
+{% set books = section_articles|filter_category(category='livros') %}
+
+{% block title %}
+    {{ page.title }}
+{% endblock %}
+
+{% block content %}
+<div class="row">
+    <div class="col-md-8">
+        <h1>{{ page.title }}</h1>
+
+        {% if projects %}
+            <h2>Projetos</h2>
+            <ul>
+                {% for article in projects -%}
+                <li>
+                    <a href="{{ SITEURL }}/{{ article.url }}">
+                        {{ article.title }}
+                    </a>
+                    <br>
+                    {{ article.subtitle }}
+                </li>
+                {%- endfor %}
+            </ul>
+        {% endif %}
+
+        {% if publications %}
+            <h2>Publicações</h2>
+            <ul>
+                {% for article in publications -%}
+                <li>
+                    {%- if article.section == 'cartografia-escolar' -%}
+                    <a href="{{ SITEURL }}/publicacoes/{{ article.slug }}">
+                        {{ article.title }}
+                    </a>
+                    {%- else -%}
+                    <a href="{{ SITEURL }}/{{ article.section }}/publicacoes/{{ article.slug }}">
+                        {{ article.title }}
+                    </a>
+                    {%- endif -%}
+                </li>
+                {%- endfor %}
+            </ul>
+        {% endif %}
+
+        {% if monographies %}
+            <h2>Monografias</h2>
+            <ul>
+                {% for article in monographies -%}
+                <li>
+                    <a href="{{ SITEURL }}/monografias/{{ article.slug }}">
+                        {{ article.title }}
+                    </a>
+                </li>
+                {%- endfor %}
+            </ul>
+        {% endif %}
+
+        {% if books %}
+        <h2>Livros</h2>
+
+        <ul>
+            {% for article in articles -%}
+                {%- if article.section == page.section
+                    and article.category == 'livros' -%}
+            <li>
+                <a href="{{ SITEURL }}/{{ article.section }}/livros/{{ article.slug }}">
+                    {{ article.title }}
+                </a>
+            </li>
+                {%- endif -%}
+            {%- endfor %}
+        </ul>
+        {% endif %}
+
+        {{ page.content }}
+    </div>
+</div>
+{% endblock %}
+
