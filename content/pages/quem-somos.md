@@ -5,11 +5,12 @@ Category: sobre
 {%
     macro person(name, prefix='', pic='sem-foto.jpg', occup='', cv=None)
 -%}
+{% set x = '{static}/img/pessoal' %}
 <div class="person">
     <div
         class="left ball"
         alt="Foto de {{name}}"
-        style="background-image: url('/img/pessoal/{{pic}}')"
+        style="background-image: url('{{x}}/{{pic}}')"
     ></div>
     <div class="left text">
         <b>{{prefix}} {{name}}</b>
