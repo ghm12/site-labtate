@@ -1,17 +1,22 @@
-Title: Quem somos
-Slug: quem-somos
-Category: sobre
+<html>
+    <head>
+        <title>Quem somos</title>
+        <meta name="slug" content="quem-somos"/>
+        <meta name="category" content="sobre"/>
+    </head>
+    <body>
 
 {%
     macro person(name, prefix='', pic='sem-foto.jpg', occup='', cv=None)
 -%}
-{% set x = '{static}/img/pessoal' %}
 <div class="person">
-    <div
+    <img
         class="left ball"
         alt="Foto de {{name}}"
-        style="background-image: url('{{x}}/{{pic}}')"
-    ></div>
+        goddamn="{{pic}}"
+        src="{static}/img/pessoal/{{pic}}"
+        style="object-fit: cover"
+    ></img>
     <div class="left text">
         <b>{{prefix}} {{name}}</b>
         <br>
@@ -33,7 +38,7 @@ Category: sobre
 {%
     macro people_list(category, people)
 -%}
-## {{ category }}
+<h2>{{ category }}</h2>
 
 <div class="people-list">
     {% for person_data in people -%}
@@ -186,3 +191,5 @@ Category: sobre
         ]
     )
 }}
+    </body>
+</html>
