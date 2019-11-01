@@ -535,6 +535,60 @@ Tags: recursos-didaticos
                 },
             ],
         },
+        'Mundo': {
+            'Placas Tectônicas': [
+                {
+                    'title': 'Acetato',
+                    'imgs': [
+                        'placas-tectonicas-acetato.jpg',
+                        'placas-tectonicas-acetato-legenda.jpg',
+                    ],
+                    'size': '22,3x33,5cm',
+                },
+                {
+                    'title': 'Baixa Visão',
+                    'imgs': [
+                        'placas-tectonicas-baixa-visao.jpg',
+                        'placas-tectonicas-baixa-visao-legenda.jpg',
+                    ],
+                    'size': '22,3x33,5cm',
+                },
+            ],
+            'População Total': [
+                {
+                    'title': 'Acetato',
+                    'imgs': [
+                        'populacao-total-acetato.jpg',
+                        'populacao-total-acetato-legenda.jpg',
+                    ],
+                    'size': '22,3x33,5cm',
+                },
+                {
+                    'title': 'Baixa Visão',
+                    'imgs': [
+                        'populacao-total-baixa-visao.jpg',
+                        'populacao-total-baixa-visao-legenda.jpg',
+                    ],
+                    'size': '22,3x33,5cm',
+                },
+            ],
+            'Zonas Térmicas': [
+                {
+                    'title': 'Acetato',
+                    'imgs': [
+                        'populacao-total-acetato.jpg',
+                    ],
+                    'size': '22,3x33,5cm',
+                },
+                {
+                    'title': 'Baixa Visão',
+                    'imgs': [
+                        'populacao-total-baixa-visao.jpg',
+                    ],
+                    'size': '22,3x33,5cm',
+                },
+            ],
+        },
     }
 %}
 
