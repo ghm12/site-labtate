@@ -1,0 +1,35 @@
+.people-list {
+    list-style: none;
+    padding-left: 0;
+}
+
+.people-list {
+    align-items: stretch;
+    display: flex;
+    flex-flow: column;
+}
+
+.people-list .person {
+    display: flex;
+    flex-flow: row nowrap;
+    margin: 1em;
+}
+
+.people-list .ball {
+    background-size: cover;
+    background-position: center;
+    border-radius: 50%;
+    max-width: 10vw;
+    max-height: 10vw;
+    min-width: 10vw;
+    min-height: 10vw;
+    width: auto;
+    height: auto;
+}
+
+.people-list .text {
+    margin-left: 2em;
+    margin-top: auto;
+    margin-bottom: auto;
+    vertical-align: middle;
+}

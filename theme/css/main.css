@@ -1,0 +1,52 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    margin: auto;
+    display: flex !important;
+}
+
+.content {
+    padding: 2em;
+    min-width: 100%;
+}
+
+.navbar {
+    color: lightgray;
+    background: #408eff;
+}
+
+.nav-link {
+    color: #eee;
+}
+
+.wrapper {
+    width: 100%;
+
+    margin: 0;
+}
+
+.btn-info {
+    background: #408eff;
+    border: #408eff;
+}
+
+.btn-info:active, .btn-info:focus {
+    background: #297dee;
+    border: #408eff;
+    box-shadow: none;
+}
+
+.video {
+    max-width: 720px;
+    max-height: 540px;
+}
+
+@media(max-width: 340px) {
+    .video {
+        max-width: 120px;
+        max-height: 90px;
+    }
+}
