@@ -589,6 +589,180 @@ Tags: recursos-didaticos
                 },
             ],
         },
+        'Moçambique': {
+            'Mapas Táteis': [
+                {
+                    'title': 'Países de Língua Portuguesa',
+                    'imgs': [
+                        'mocambique/thumbnails/paises-de-lingua-portuguesa-thumbnail.png',
+                        'mocambique/thumbnails/paises-de-lingua-portuguesa-legenda-thumbnail.png',
+                    ],
+                },
+                {
+                    'title': 'Localização na África',
+                    'imgs': [
+                        'mocambique/thumbnails/mapa-africa-thumbnail.png',
+                        'mocambique/thumbnails/mapa-africa-legenda-thumbnail.png',
+                    ],
+                },
+                {
+                    'title': 'Rodovias e Cidades Principais',
+                    'imgs': [
+                        'mocambique/thumbnails/rodovias-e-cidades-thumbnail.png',
+                        'mocambique/thumbnails/rodovias-e-cidades-legenda-thumbnail.png',
+                    ],
+                },
+                {
+                    'title': 'Tipos de Clima',
+                    'imgs': [
+                        'mocambique/thumbnails/clima-thumbnail.png',
+                        'mocambique/thumbnails/clima-legenda-thumbnail.png',
+                    ],
+                },
+                {
+                    'title': 'Grupos Étnicos',
+                    'imgs': [
+                        'mocambique/thumbnails/grupos-etnicos-thumbnail.png',
+                        'mocambique/thumbnails/grupos-etnicos-legenda-thumbnail.png',
+                    ],
+                },
+                {
+                    'title': 'Bacias Hidrográficas',
+                    'imgs': [
+                        'mocambique/thumbnails/bacias-hidrograficas-thumbnail.png',
+                        'mocambique/thumbnails/bacias-hidrograficas-legenda-thumbnail.png',
+                    ],
+                },
+                {
+                    'title': 'Hipsometria',
+                    'imgs': [
+                        'mocambique/thumbnails/hipsometria-thumbnail.png',
+                        'mocambique/thumbnails/hipsometria-legenda-thumbnail.png',
+                    ],
+                },
+                {
+                    'title': 'Principais Indústrias',
+                    'imgs': [
+                        'mocambique/thumbnails/principais-industrias-thumbnail.png',
+                        'mocambique/thumbnails/principais-industrias-legenda-thumbnail.png',
+                    ],
+                },
+                {
+                    'title': 'População',
+                    'imgs': [
+                        'mocambique/thumbnails/populacao-thumbnail.png',
+                        'mocambique/thumbnails/populacao-legenda-thumbnail.png',
+                    ],
+                },
+                {
+                    'title': 'Províncias',
+                    'imgs': [
+                        'mocambique/thumbnails/provincias-thumbnail.png',
+                        'mocambique/thumbnails/provincias-legenda-thumbnail.png',
+                    ],
+                },
+                {
+                    'title': 'Principais Recursos Minerais',
+                    'imgs': [
+                        'mocambique/thumbnails/recursos-minerais-thumbnail.png',
+                        'mocambique/thumbnails/recursos-minerais-legenda-thumbnail.png',
+                    ],
+                },
+                {
+                    'title': 'Vegetação',
+                    'imgs': [
+                        'mocambique/thumbnails/vegetacao-thumbnail.png',
+                        'mocambique/thumbnails/vegetacao-legenda-thumbnail.png',
+                    ],
+                },
+            ],
+            'Baixa Visão': [
+                {
+                    'title': 'Países de Língua Portuguesa',
+                    'imgs': [
+                        'mocambique/thumbnails/paises-de-lingua-portuguesa-thumbnail.png',
+                        'mocambique/thumbnails/paises-de-lingua-portuguesa-legenda-thumbnail.png',
+                    ],
+                },
+                {
+                    'title': 'Localização na África',
+                    'imgs': [
+                        'mocambique/thumbnails/mapa-africa-thumbnail.png',
+                        'mocambique/thumbnails/mapa-africa-legenda-thumbnail.png',
+                    ],
+                },
+                {
+                    'title': 'Rodovias e Cidades Principais',
+                    'imgs': [
+                        'mocambique/thumbnails/rodovias-e-cidades-thumbnail.png',
+                        'mocambique/thumbnails/rodovias-e-cidades-legenda-thumbnail.png',
+                    ],
+                },
+                {
+                    'title': 'Tipos de Clima',
+                    'imgs': [
+                        'mocambique/thumbnails/clima-thumbnail.png',
+                        'mocambique/thumbnails/clima-legenda-thumbnail.png',
+                    ],
+                },
+                {
+                    'title': 'Grupos Étnicos',
+                    'imgs': [
+                        'mocambique/thumbnails/grupos-etnicos-thumbnail.png',
+                        'mocambique/thumbnails/grupos-etnicos-legenda-thumbnail.png',
+                    ],
+                },
+                {
+                    'title': 'Bacias Hidrográficas',
+                    'imgs': [
+                        'mocambique/thumbnails/bacias-hidrograficas-thumbnail.png',
+                        'mocambique/thumbnails/bacias-hidrograficas-legenda-thumbnail.png',
+                    ],
+                },
+                {
+                    'title': 'Hipsometria',
+                    'imgs': [
+                        'mocambique/thumbnails/hipsometria-thumbnail.png',
+                        'mocambique/thumbnails/hipsometria-legenda-thumbnail.png',
+                    ],
+                },
+                {
+                    'title': 'Principais Indústrias',
+                    'imgs': [
+                        'mocambique/thumbnails/principais-industrias-thumbnail.png',
+                        'mocambique/thumbnails/principais-industrias-legenda-thumbnail.png',
+                    ],
+                },
+                {
+                    'title': 'População',
+                    'imgs': [
+                        'mocambique/thumbnails/populacao-thumbnail.png',
+                        'mocambique/thumbnails/populacao-legenda-thumbnail.png',
+                    ],
+                },
+                {
+                    'title': 'Províncias',
+                    'imgs': [
+                        'mocambique/thumbnails/provincias-thumbnail.png',
+                        'mocambique/thumbnails/provincias-legenda-thumbnail.png',
+                    ],
+                },
+                {
+                    'title': 'Principais Recursos Minerais',
+                    'imgs': [
+                        'mocambique/thumbnails/recursos-minerais-thumbnail.png',
+                        'mocambique/thumbnails/recursos-minerais-legenda-thumbnail.png',
+                    ],
+                },
+                {
+                    'title': 'Vegetação',
+                    'imgs': [
+                        'mocambique/thumbnails/vegetacao-thumbnail.png',
+                        'mocambique/thumbnails/vegetacao-legenda-thumbnail.png',
+                    ],
+                },
+            ],
+        },
     }
 %}
 
