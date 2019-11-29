@@ -120,14 +120,14 @@ Tags: recursos-didaticos
                 {
                     'title': 'Acetato',
                     'imgs': [
-                        'america-central-continental-fisico-acetato.jpg',
+                        'america-central/acetato/america-central-continental-fisico-acetato.jpg',
                     ],
                     'size': '22,3x33,5cm',
                 },
                 {
                     'title': 'Baixa Visão',
                     'imgs': [
-                        'america-central-continental-fisico-baixa-visao.jpg',
+                        'america-central/baixa-visao/america-central-continental-fisico-baixa-visao.jpg',
                     ],
                     'size': '22,3x33,5cm',
                 },
@@ -136,16 +136,16 @@ Tags: recursos-didaticos
                 {
                     'title': 'Acetato',
                     'imgs': [
-                        'america-central-continental-politico-acetato.jpg',
-                        'america-central-continental-politico-acetato-legenda.jpg',
+                        'america-central/acetato/america-central-continental-politico-acetato.jpg',
+                        'america-central/acetato/america-central-continental-politico-acetato-legenda.jpg',
                     ],
                     'size': '22,3x33,5cm',
                 },
                 {
                     'title': 'Baixa Visão',
                     'imgs': [
-                        'america-central-continental-politico-baixa-visao.jpg',
-                        'america-central-continental-politico-baixa-visao-legenda.jpg',
+                        'america-central/baixa-visao/america-central-continental-politico-baixa-visao.jpg',
+                        'america-central/baixa-visao/america-central-continental-politico-baixa-visao-legenda.jpg',
                     ],
                     'size': '22,3x33,5cm',
                 },
@@ -156,14 +156,14 @@ Tags: recursos-didaticos
                 {
                     'title': 'Acetato',
                     'imgs': [
-                        'america-central-insular-fisico-acetato.jpg',
+                        'america-central/acetato/america-central-insular-fisico-acetato.jpg',
                     ],
                     'size': '22,3x33,5cm',
                 },
                 {
                     'title': 'Baixa Visão',
                     'imgs': [
-                        'america-central-insular-fisico-baixa-visao.jpg',
+                        'america-central/baixa-visao/america-central-insular-fisico-baixa-visao.jpg',
                     ],
                     'size': '22,3x33,5cm',
                 },
@@ -172,16 +172,16 @@ Tags: recursos-didaticos
                 {
                     'title': 'Acetato',
                     'imgs': [
-                        'america-central-insular-politico-acetato.jpg',
-                        'america-central-insular-politico-acetato-legenda.jpg',
+                        'america-central/acetato/america-central-insular-politico-acetato.jpg',
+                        'america-central/acetato/america-central-insular-politico-acetato-legenda.jpg',
                     ],
                     'size': '22,3x33,5cm',
                 },
                 {
                     'title': 'Baixa Visão',
                     'imgs': [
-                        'america-central-insular-politico-baixa-visao.jpg',
-                        'america-central-insular-politico-baixa-visao-legenda.jpg',
+                        'america-central/baixa-visao/america-central-insular-politico-baixa-visao.jpg',
+                        'america-central/baixa-visao/america-central-insular-politico-baixa-visao-legenda.jpg',
                     ],
                     'size': '22,3x33,5cm',
                 },
@@ -244,8 +244,8 @@ Tags: recursos-didaticos
                 {
                     'title': 'Acetato',
                     'imgs': [
-                        'asia-fisico-acetato.jpg',
-                        'asia-fisico-acetato-legenda.jpg',
+                        'asia/acetato/asia-fisico-acetato.jpg',
+                        'asia/acetato/asia-fisico-acetato-legenda.jpg',
                     ],
                     'size': '22,3x33,5cm',
                 },
@@ -254,8 +254,8 @@ Tags: recursos-didaticos
                 {
                     'title': 'Baixa Visão',
                     'imgs': [
-                        'asia-fisico-baixa-visao.jpg',
-                        'asia-fisico-baixa-visao-legenda.jpg',
+                        'asia/baixa-visao/asia-fisico-baixa-visao.jpg',
+                        'asia/baixa-visao/asia-fisico-baixa-visao-legenda.jpg',
                     ],
                     'size': '22,3x33,5cm',
                 },
@@ -266,16 +266,16 @@ Tags: recursos-didaticos
                 {
                     'title': 'Acetato',
                     'imgs': [
-                        'asia-norte-politico-acetato.jpg',
-                        'asia-norte-politico-acetato-legenda.jpg',
+                        'asia/acetato/asia-norte-politico-acetato.jpg',
+                        'asia/acetato/asia-norte-politico-acetato-legenda.jpg',
                     ],
                     'size': '22,3x33,5cm',
                 },
                 {
                     'title': 'Baixa Visão',
                     'imgs': [
-                        'asia-norte-politico-baixa-visao.jpg',
-                        'asia-norte-politico-baixa-visao-legenda.jpg',
+                        'asia/baixa-visao/asia-norte-politico-baixa-visao.jpg',
+                        'asia/baixa-visao/asia-norte-politico-baixa-visao-legenda.jpg',
                     ],
                     'size': '22,3x33,5cm',
                 },
@@ -286,16 +286,16 @@ Tags: recursos-didaticos
                 {
                     'title': 'Acetato',
                     'imgs': [
-                        'asia-oriente-medio-politico-acetato-1.jpg',
-                        'asia-oriente-medio-politico-acetato-2.jpg',
+                        'asia/acetato/asia-oriente-medio-politico-acetato-1.jpg',
+                        'asia/acetato/asia-oriente-medio-politico-acetato-2.jpg',
                     ],
                     'size': '22,3x33,5cm',
                 },
                 {
                     'title': 'Baixa Visão',
                     'imgs': [
-                        'asia-oriente-medio-politico-baixa-visao-1.jpg',
-                        'asia-oriente-medio-politico-baixa-visao-2.jpg',
+                        'asia/baixa-visao/asia-oriente-medio-politico-baixa-visao-1.jpg',
+                        'asia/baixa-visao/asia-oriente-medio-politico-baixa-visao-2.jpg',
                     ],
                     'size': '22,3x33,5cm',
                 },
@@ -304,16 +304,16 @@ Tags: recursos-didaticos
                 {
                     'title': 'Acetato',
                     'imgs': [
-                        'asia-oriente-medio-vegetacao-acetato.jpg',
-                        'asia-oriente-medio-vegetacao-acetato-legenda.jpg',
+                        'asia/acetato/asia-oriente-medio-vegetacao-acetato.jpg',
+                        'asia/acetato/asia-oriente-medio-vegetacao-acetato-legenda.jpg',
                     ],
                     'size': '22,3x33,5cm',
                 },
                 {
                     'title': 'Baixa Visão',
                     'imgs': [
-                        'asia-oriente-medio-vegetacao-baixa-visao.jpg',
-                        'asia-oriente-medio-vegetacao-baixa-visao-legenda.jpg',
+                        'asia/baixa-visao/asia-oriente-medio-vegetacao-baixa-visao.jpg',
+                        'asia/baixa-visao/asia-oriente-medio-vegetacao-baixa-visao-legenda.jpg',
                     ],
                     'size': '22,3x33,5cm',
                 },
@@ -324,16 +324,16 @@ Tags: recursos-didaticos
                 {
                     'title': 'Acetato',
                     'imgs': [
-                        'asia-sul-politico-acetato-1.jpg',
-                        'asia-sul-politico-acetato-2.jpg',
+                        'asia/acetato/asia-sul-politico-acetato-1.jpg',
+                        'asia/acetato/asia-sul-politico-acetato-2.jpg',
                     ],
                     'size': '22,3x33,5cm',
                 },
                 {
                     'title': 'Baixa Visão',
                     'imgs': [
-                        'asia-sul-politico-baixa-visao.jpg',
-                        'asia-sul-politico-baixa-visao-legenda.jpg',
+                        'asia/baixa-visao/asia-sul-politico-baixa-visao.jpg',
+                        'asia/baixa-visao/asia-sul-politico-baixa-visao-legenda.jpg',
                     ],
                     'size': '22,3x33,5cm',
                 },
@@ -342,16 +342,16 @@ Tags: recursos-didaticos
                 {
                     'title': 'Acetato',
                     'imgs': [
-                        'asia-sul-vegetacao-acetato.jpg',
-                        'asia-sul-vegetacao-acetato-legenda.jpg',
+                        'asia/acetato/asia-sul-vegetacao-acetato.jpg',
+                        'asia/acetato/asia-sul-vegetacao-acetato-legenda.jpg',
                     ],
                     'size': '22,3x33,5cm',
                 },
                 {
                     'title': 'Baixa Visão',
                     'imgs': [
-                        'asia-sul-vegetacao-baixa-visao.jpg',
-                        'asia-sul-vegetacao-baixa-visao-legenda.jpg',
+                        'asia/baixa-visao/asia-sul-vegetacao-baixa-visao.jpg',
+                        'asia/baixa-visao/asia-sul-vegetacao-baixa-visao-legenda.jpg',
                     ],
                     'size': '22,3x33,5cm',
                 },
@@ -486,14 +486,14 @@ Tags: recursos-didaticos
                 {
                     'title': 'Acetato',
                     'imgs': [
-                        'oceania-fisico-acetato.jpg',
+                        'oceania/acetato/oceania-fisico-acetato.jpg',
                     ],
                     'size': '22,3x33,5cm',
                 },
                 {
                     'title': 'Baixa Visão',
                     'imgs': [
-                        'oceania-fisico-baixa-visao.jpg',
+                        'oceania/baixa-visao/oceania-fisico-baixa-visao.jpg',
                     ],
                     'size': '22,3x33,5cm',
                 },
@@ -502,16 +502,16 @@ Tags: recursos-didaticos
                 {
                     'title': 'Acetato',
                     'imgs': [
-                        'oceania-politico-acetato.jpg',
-                        'oceania-politico-acetato-legenda.jpg',
+                        'oceania/acetato/oceania-politico-acetato.jpg',
+                        'oceania/acetato/oceania-politico-acetato-legenda.jpg',
                     ],
                     'size': '22,3x33,5cm',
                 },
                 {
                     'title': 'Baixa Visão',
                     'imgs': [
-                        'oceania-politico-baixa-visao.jpg',
-                        'oceania-politico-baixa-visao-legenda.jpg',
+                        'oceania/baixa-visao/oceania-politico-baixa-visao.jpg',
+                        'oceania/baixa-visao/oceania-politico-baixa-visao-legenda.jpg',
                     ],
                     'size': '22,3x33,5cm',
                 },
@@ -520,16 +520,16 @@ Tags: recursos-didaticos
                 {
                     'title': 'Acetato',
                     'imgs': [
-                        'oceania-vegetacao-acetato.jpg',
-                        'oceania-vegetacao-acetato-legenda.jpg',
+                        'oceania/acetato/oceania-vegetacao-acetato.jpg',
+                        'oceania/acetato/oceania-vegetacao-acetato-legenda.jpg',
                     ],
                     'size': '22,3x33,5cm',
                 },
                 {
                     'title': 'Baixa Visão',
                     'imgs': [
-                        'oceania-vegetacao-baixa-visao.jpg',
-                        'oceania-vegetacao-baixa-visao-legenda.jpg',
+                        'oceania/baixa-visao/oceania-vegetacao-baixa-visao.jpg',
+                        'oceania/baixa-visao/oceania-vegetacao-baixa-visao-legenda.jpg',
                     ],
                     'size': '22,3x33,5cm',
                 },
