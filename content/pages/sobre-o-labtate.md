@@ -2,7 +2,7 @@ Title: Sobre o LABTATE
 Slug: sobre-o-labtate
 Category: sobre
 
-O Laboratório de Cartografia Tátil e Escolar (LABTATE) é um laboratório localizado no Centro de Filosofia e Ciencias Humanas (CFH) com o intuito de produzir conteúdo educacional e fornecer acessibilidade aos deficientes visuais.
+O Laboratório de Cartografia Tátil e Escolar (LABTATE) é um laboratório localizado no Centro de Filosofia e Ciencias Humanas (CFH) com o intuito de produzir conteúdo educacional para educação geográfica e cartografia Escolar e Tátil.
 
 Objetivos
 -------------------
