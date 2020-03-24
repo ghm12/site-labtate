@@ -46,7 +46,7 @@ Alunos da Graduação
         <div class="left text">
             <b>Jonas Hamud</b>
             <br>
-            Goegrafia
+            Geografia
         </div>
     </div>
 
