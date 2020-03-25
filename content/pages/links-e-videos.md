@@ -3,6 +3,8 @@ Category: sobre
 
 ## Vídeos
 
+<iframe class="video" src="https://www.youtube.com/embed/FzxCJfox3tU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <iframe class="video" src="https://www.youtube.com/embed/GbnkhXTsAxo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe class="video" src="https://www.youtube.com/embed/x1ujNP6f0ms" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
