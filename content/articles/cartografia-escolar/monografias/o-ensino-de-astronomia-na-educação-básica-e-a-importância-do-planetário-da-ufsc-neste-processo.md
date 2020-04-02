@@ -3,4 +3,5 @@ other: Trabalho de Conclusão de Curso. (Graduação em Abi - Geografia) Isis Ma
 url: O Ensino de Astronomia na Educação Básica e a Importância do Planetário da UFSC Neste Processo.pdf
 urltype: PDF
 section: cartografia-escolar
+save_as: cartografia-escolar/monografias/o-ensino-de-astronomia-na-educacao-basica.html
 template: publication

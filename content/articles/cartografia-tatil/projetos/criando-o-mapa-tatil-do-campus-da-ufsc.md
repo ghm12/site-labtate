@@ -1,6 +1,7 @@
 Title: Criando o Mapa Tátil do Campus da UFSC (produção técnica)
 Slug: criando-o-mapa-tátil-do-campus-da-ufsc
 Section: cartografia-tatil
+save_as: cartografia-tatil/projetos/criando-o-mapa-tatil-do-campus-da-ufsc.html
 
 ## Sobre
 

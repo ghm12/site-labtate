@@ -3,4 +3,5 @@ other: XXII Congresso Brasileiro de Cartografia, 2005, Macaé, RJ. XXII Congress
 url: Iniciando a Alfabetização Cartográfica.pdf
 urltype: PDF
 section: cartografia-escolar
+save_as: cartografia-escolar/publicacoes/iniciando-a-alfebetizacao-cartografica.html
 template: publication

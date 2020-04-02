@@ -1,6 +1,6 @@
-Title: Projeto LABTOY
-Subtitle: Laboratório Tecnológico de Recursos Instrucionais em Ciências da Terra
+Title: Projeto LABTOY - Laboratório Tecnológico de Recursos Instrucionais em Ciências da Terra
 Section: cartografia-tatil
+save_as: cartografia-tatil/projetos/projeto-labtoy.html
 
 ## Sobre
 

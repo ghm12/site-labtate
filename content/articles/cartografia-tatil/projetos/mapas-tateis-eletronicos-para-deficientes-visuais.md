@@ -1,6 +1,6 @@
-Title: Mapas táteis eletrônicos para deficientes visuais
-Subtitle: A trilha do rio do Bráz (produção técnica)
+Title: Mapas táteis eletrônicos para deficientes visuais - A trilha do rio do Bráz (produção técnica)
 Section: cartografia-tatil
+save_as: cartografia-tatil/projetos/mapas-tateis-eletronicos-para-deficientes-visuais.html
 
 ## Sobre
 

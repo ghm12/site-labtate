@@ -1,5 +1,6 @@
 Title: Oficina de Cartografia Escolar (curso)
 Section: cartografia-tatil
+save_as: cartografia-tatil/projetos/oficina-de-cartografia-escolar.html
 
 ## Sobre
 

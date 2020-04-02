@@ -1,7 +1,7 @@
-Title: Cooperando para a inclusão educacional de deficientes visuais
-Subtitle: Os atlas geográficos táteis e baixa visão dos países de língua portuguesa
+Title: Cooperando para a inclusão educacional de deficientes visuais - Os atlas geográficos táteis e baixa visão dos países de língua portuguesa
 Slug: cooperando-para-a-inclusão-educacional-de-deficientes-visuais
 Section: cartografia-tatil
+save_as: cartografia-tatil/projetos/cooperando-para-a-inclusao-educacional-de-deficientes-visuais-atlas-geograficos-tateis-e-baixa-visao.html
 Type: projetos
 Template: article
 Date: 2019-07-11

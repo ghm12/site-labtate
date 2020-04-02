@@ -1,6 +1,6 @@
 Title: Aporte à segurança e autonomia de deficientes visuais no espaço urbano e em edificações: concepção de mapas táteis padronizados
-Subtitle: Concepção de mapas táteis padronizados
 Section: cartografia-tatil
+save_as: cartografia-tatil/projetos/aporte-a-seguranca-e-autonomia-de-deficientes-visuais-no-espaco-urbano-e-em-edificacoes.html
 
 ## Sobre
 

@@ -1,5 +1,6 @@
 Title: O uso da cartografia tátil e da internet para informar deficientes visuais sobre os serviços públicos de Florianópolis
 Section: cartografia-tatil
+save_as: cartografia-tatil/projetos/o-uso-da-cartografia-tatil-e-da-internet-para-informar-deficientes-visuais-sobre-os-servicos-publicos-de-florianopolis.html
 
 ## Sobre
 

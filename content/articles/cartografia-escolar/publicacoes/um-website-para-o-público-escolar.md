@@ -3,4 +3,5 @@ other: VI Colóquio de Cartografia para Crianças e Escolares e II Fórum Latino
 url: Um Website para o Público Escolar - Conteúdos Interativos para Aprender Cartografia.pdf
 urltype: PDF
 section: cartografia-escolar
+save_as: cartografia-escolar/publicacoes/um-website-para-o-publico-escolar.html
 template: publication

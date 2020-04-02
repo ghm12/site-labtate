@@ -1,6 +1,6 @@
 Title: Contatos e Redes Sociais
 Slug: contatos
-Category: sobre
+save_as: laboratorio/contatos.html
 
 
 Contatos

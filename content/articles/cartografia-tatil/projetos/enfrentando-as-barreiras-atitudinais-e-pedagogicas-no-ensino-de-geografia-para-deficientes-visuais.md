@@ -1,6 +1,7 @@
 Title: Enfrentamento às barreiras atitudinais e pedagógicas no ensino de Geografia para deficientes visuais (palestra convidada)
 Slug: enfrentamento-às-barreiras-atitudinais-e-pedagógicas-no-ensino-de-geografia-para-deficientes-visuais
 Section: cartografia-tatil
+save_as: cartografia-tatil/projetos/enfrentamento-as-barreiras-atitudinais-e-pedagogicas-no-ensino-de-geografia-para-deficientes-visuais.html
 
 ## Sobre
 

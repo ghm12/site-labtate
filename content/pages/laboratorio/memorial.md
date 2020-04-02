@@ -1,6 +1,7 @@
 Title: Memorial
 Slug: memorial
 Category: sobre
+save_as: laboratorio/memorial.html
 
 Conheça quem já fez parte do LABTATE.
 

@@ -1,5 +1,6 @@
 Title: Enfrentamentos às barreiras informacionais no acesso ao conhecimento geográfico: o espaço LabTATE da UFSC
 Section: cartografia-tatil
+save_as: cartografia-tatil/projetos/enfrentamentos-as-barreiras-informacionais-no-acesso-ao-conhecimento-geografico.html
 
 Sobre
 -----

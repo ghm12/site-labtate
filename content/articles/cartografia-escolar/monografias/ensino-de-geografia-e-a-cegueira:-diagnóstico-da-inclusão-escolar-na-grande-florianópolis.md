@@ -3,4 +3,5 @@ other: Dissertação (Mestrado em Geografia) - Ana Paula Nunes Chaves. 2010.
 url: Ensino de Geografia e a Cegueira - Diagnóstico da Inclusão Escolar na Grande Florianópolis.pdf
 urltype: PDF
 section: cartografia-escolar
+save_as: cartografia-escolar/monografias/ensino-de-geografia-e-a-cegueira.html
 template: publication

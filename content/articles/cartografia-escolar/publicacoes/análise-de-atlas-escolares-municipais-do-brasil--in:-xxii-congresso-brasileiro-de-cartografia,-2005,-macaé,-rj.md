@@ -3,4 +3,5 @@ other: Congresso Brasileiro de Cartografia, 2005, Macaé, RJ.XXII Congresso Bras
 url:
 urltype:
 section: cartografia-escolar
+save_as: cartografia-escolar/publicacoes/analise-de-atlas-escolares-municipais-do-brasil.html
 template: publication

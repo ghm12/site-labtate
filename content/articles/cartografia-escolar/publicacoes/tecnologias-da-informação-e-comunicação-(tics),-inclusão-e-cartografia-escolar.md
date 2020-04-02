@@ -3,4 +3,5 @@ other: Geografares: Revista do Mestradoe do Departamento de Geografia, Centro de
 url: Tecnologias da Informação e Comunicação, Inclusão e Cartografia Escolar.pdf
 urltype: PDF
 section: cartografia-escolar
+save_as: cartografia-escolar/publicacoes/tecnologias-da-informacao-e-comunicacao-inclusao-e-cartografia-escolar.html
 template: publication

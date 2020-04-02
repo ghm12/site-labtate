@@ -3,4 +3,5 @@ other: XXIV Congresso Brasileiro de Cartografia e II Congresso Brasileiro de Geo
 url: Recriando um Mapa de Campus - Proposta com Base na Comunicação Cartográfica.pdf
 urltype: PDF
 section: cartografia-escolar
+save_as: cartografia-escolar/publicacoes/recriando-um-mapa-de-campus-proposta-com-base-na-comunicacao-cartografica.html
 template: publication

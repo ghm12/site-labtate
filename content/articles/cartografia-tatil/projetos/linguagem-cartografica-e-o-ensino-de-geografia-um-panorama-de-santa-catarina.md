@@ -1,6 +1,7 @@
 Title: Linguagem cartográfica e o ensino de Geografia: um panorama de Santa Catarina
 Slug: linguagem-cartografica-e-o-ensino-de-geografia-um-panorama-de-santa-catarina
 Section: cartografia-tatil
+save_as: cartografia-tatil/projetos/linguagem-cartografica-e-o-ensino-de-geografia-um-panorama-de-santa-catarina.html
 
 ## Sobre
 

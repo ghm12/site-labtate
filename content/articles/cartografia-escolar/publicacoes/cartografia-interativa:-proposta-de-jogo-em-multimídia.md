@@ -3,4 +3,5 @@ other: Anais do 23º Congresso Brasileiro de Cartografia. Rio de Janeiro: Socied
 url: Cartografia Interativa - A Proposta de Jogo em Multimídia.pdf
 urltype: PDF
 section: cartografia-escolar
+save_as: cartografia-escolar/publicacoes/cartografia-interativa-proposta-de-jogo-em-multimidia.html
 template: publication

@@ -1,6 +1,7 @@
 Title: Maquetes Geográficas Táteis aplicadas a educação de Deficientes Visuais-DVs
 Slug: maquetes-geográficas-táteis-aplicadas-a-educação-de-deficientes-visuais-dvs
 Section: cartografia-tatil
+save_as: cartografia-tatil/projetos/maquetes-geograficas-tateis-aplicadas-a-educacao-de-deficientes-visuais.html
 
 ## Sobre
 

@@ -3,4 +3,5 @@ other: Simpósio Brasileiro de Sensoriamento Remoto, 13, Florianópolis, 2007. A
 url:
 urltype: PDF
 section: cartografia-escolar
+save_as: cartografia-escolar/publicacoes/o-uso-de-geotecnologicos-na-pratica-escolar.html
 template: publication

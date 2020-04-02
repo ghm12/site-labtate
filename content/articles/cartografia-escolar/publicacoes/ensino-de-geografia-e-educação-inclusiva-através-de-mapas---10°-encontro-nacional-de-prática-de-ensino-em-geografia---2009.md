@@ -3,4 +3,5 @@ other: 10° Encontro Nacional de Prática de Ensino em Geografia - 2009; 6º ENC
 url:
 urltype: PDF
 section: cartografia-escolar
+save_as: cartografia-escolar/publicacoes/ensino-de-geografia-e-educacao-inclusiva-atraves-de-mapas.html
 template: publication

@@ -1,5 +1,6 @@
 Title: Confecção e uso de mapas táteis no Ensino de Geografia (curso)
 Section: cartografia-tatil
+save_as: cartografia-tatil/projetos/confeccao-e-uso-de-mapas-tateis-no-ensino-de-geografia.html
 
 ## Sobre
 

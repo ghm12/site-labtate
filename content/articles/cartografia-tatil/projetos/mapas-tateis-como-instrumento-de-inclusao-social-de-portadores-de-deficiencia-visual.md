@@ -1,5 +1,6 @@
 Title: Mapas táteis como instrumento de inclusão social de portadores de deficiência visual
 Section: cartografia-tatil
+save_as: cartografia-tatil/projetos/mapas-tateis-como-instrumento-de-inclusao-social-de-portadores-de-deficiencia-visual.html
 
 ## Sobre
 

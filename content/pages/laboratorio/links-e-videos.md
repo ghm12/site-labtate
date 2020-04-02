@@ -1,5 +1,5 @@
 Title: Links e Vídeos
-Category: sobre
+save_as: laboratorio/links-e-videos.html
 
 ## Vídeos
 

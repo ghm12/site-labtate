@@ -1,6 +1,7 @@
 Title: Educação Geográfica: abordagens complementares para a construção de uma aprendizagem significativa
 Slug: educacao-geografica-abordagens-complementares-para-a-construcao-de-uma-aprendizagem-significativa
 Section: cartografia-tatil
+save_as: cartografia-tatil/projetos/educacao-geografica-abordagens-complementares-para-a-construcao-de-uma-aprendizagem-significativa.html
 
 ## Sobre
 

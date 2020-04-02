@@ -1,6 +1,7 @@
 Title: Mapas Geográficos Táteis
 Slug: mapas-tateis
 Section: cartografia-tatil
+save_as: cartografia-tatil/mapas/mapas.html
 Tags: recursos-didaticos
 
 (Clique nas imagens para abri-la)

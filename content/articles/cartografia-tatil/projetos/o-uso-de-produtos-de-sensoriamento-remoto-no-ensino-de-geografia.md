@@ -1,5 +1,6 @@
 Title: O uso de produtos de sensoriamento remoto no ensino de Geografia
 Section: cartografia-tatil
+save_as: cartografia-tatil/projetos/o-uso-de-produtos-de-sensoriamento-remoto-no-ensino-de-geografia.html
 
 ## Sobre
 

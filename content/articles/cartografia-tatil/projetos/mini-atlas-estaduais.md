@@ -1,6 +1,7 @@
 Title: Mini-Atlas Estaduais
 Slug: mini-atlas-estaduais
 Section: cartografia-tatil
+save_as: cartografia-tatil/projetos/mini-atlas-estaduais.html
 Type: Extensão
 
 ## Sobre

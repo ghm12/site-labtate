@@ -1,6 +1,7 @@
 Title: Reformulação do mapa da UFSC (produção técnica)
 Slug: reformulacao-do-mapa-da-ufsc
 Section: cartografia-tatil
+save_as: cartografia-tatil/projetos/reformulacao-do-mapa-da-ufsc.html
 
 ## Sobre
 
