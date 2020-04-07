@@ -19,4 +19,5 @@ copiados e reproduzidos seguindo as recomendações de como elaborar mapas táte
 <h2>Lista de Atlas para Deficientes Visuais</h2>
 <ul>
     <li><a href="atlas-e-mapas/atlas-geografico-tatil.html">Atlas Geográfico Tátil</a></li>
+    <li><a href="atlas-e-mapas/atlas-de-mocambique.html">Atlas de Moçambique</a></li>
 </ul>
