@@ -16,6 +16,7 @@ encadernados para sua utilização, ou se preferir, podem ser salvos e utilizado
 diretamente na tela do computador. Os modelos dos mapas táteis podem ser
 copiados e reproduzidos seguindo as recomendações de como elaborar mapas táteis.
 
+<h2>Lista de Atlas para Deficientes Visuais</h2>
 <ul>
-    <li><a href="mapas/mapas.html">Mapas Geográficos Táteis dos Continentes</a></li>
+    <li><a href="atlas-e-mapas/atlas-geografico-tatil.html">Atlas Geográfico Tátil</a></li>
 </ul>
