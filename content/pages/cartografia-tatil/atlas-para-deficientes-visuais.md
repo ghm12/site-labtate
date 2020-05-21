@@ -18,6 +18,11 @@ copiados e reproduzidos seguindo as recomendações de como elaborar mapas táte
 
 <h2>Lista de Atlas para Deficientes Visuais</h2>
 <ul>
+    <li><a href="atlas-e-mapas/atlas-de-florianopolis.html">Atlas de Florianópolis</a></li>
     <li><a href="atlas-e-mapas/atlas-geografico-tatil.html">Atlas Geográfico Tátil</a></li>
     <li><a href="atlas-e-mapas/atlas-de-mocambique.html">Atlas de Moçambique</a></li>
+    <li><a href="atlas-e-mapas/atlas-do-parana.html">Atlas do Paraná</a></li>
+    <li><a href="atlas-e-mapas/atlas-do-rio-grande-do-sul.html">Atlas do Rio Grande do Sul</a></li>
+    <li><a href="atlas-e-mapas/atlas-de-santa-catarina.html">Atlas de Santa Catarina</a></li>
+    <li><a href="atlas-e-mapas/atlas-de-sao-paulo.html">Atlas de São Paulo</a></li>
 </ul>
