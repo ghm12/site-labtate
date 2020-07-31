@@ -1,4 +1,4 @@
-Title: Hidrografia do Brasil
+Title: Brasil - Hidrografia
 Section: cartografia-tatil
 save_as: cartografia-tatil/mapas-tateis-para-o-ensino/brasil-hidrografia.html
 Tags: recursos-didaticos
@@ -45,7 +45,7 @@ Tags: recursos-didaticos
 
 {%
     set maps = {
-        'Hidrografia do Brasil': {
+        'Brasil - Hidrografia': {
             '': [
                 {
                     'title': 'Mapa Tátil',

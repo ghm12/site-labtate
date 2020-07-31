@@ -1,4 +1,4 @@
-Title: Clima do Brasil
+Title: Brasil - Clima
 Section: cartografia-tatil
 save_as: cartografia-tatil/mapas-tateis-para-o-ensino/brasil-clima.html
 Tags: recursos-didaticos
@@ -45,7 +45,7 @@ Tags: recursos-didaticos
 
 {%
     set maps = {
-        'Climas do Brasil': {
+        'Brasil - Clima': {
             '': [
                 {
                     'title': 'Mapa Tátil',

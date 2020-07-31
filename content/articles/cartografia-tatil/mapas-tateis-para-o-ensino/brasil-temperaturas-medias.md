@@ -1,4 +1,4 @@
-Title: Temperaturas Médias do Brasil
+Title: Brasil - Temperaturas Médias
 Section: cartografia-tatil
 save_as: cartografia-tatil/mapas-tateis-para-o-ensino/brasil-temperaturas-medias.html
 Tags: recursos-didaticos
@@ -45,7 +45,7 @@ Tags: recursos-didaticos
 
 {%
     set maps = {
-        'Temperaturas Médias': {
+        'Brasil - Temperaturas Médias': {
             '': [
                 {
                     'title': 'Mapa Tátil',

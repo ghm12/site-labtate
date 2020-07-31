@@ -1,4 +1,4 @@
-Title: População do Brasil
+Title: Brasil - Mapa Populacional
 Section: cartografia-tatil
 save_as: cartografia-tatil/mapas-tateis-para-o-ensino/brasil-populacao.html
 Tags: recursos-didaticos
@@ -45,7 +45,7 @@ Tags: recursos-didaticos
 
 {%
     set maps = {
-        'População do Brasil': {
+        'Brasil - Mapa Populacional': {
             '': [
                 {
                     'title': 'Mapa Tátil',

@@ -1,4 +1,4 @@
-Title: Relevo do Brasil
+Title: Brasil - Relevo
 Section: cartografia-tatil
 save_as: cartografia-tatil/mapas-tateis-para-o-ensino/brasil-relevo.html
 Tags: recursos-didaticos
@@ -45,7 +45,7 @@ Tags: recursos-didaticos
 
 {%
     set maps = {
-        'Relevo do Brasil': {
+        'Brasil - Relevo': {
             '': [
                 {
                     'title': 'Mapa Tátil',

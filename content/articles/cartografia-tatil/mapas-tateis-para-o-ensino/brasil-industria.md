@@ -1,4 +1,4 @@
-Title: Mapa Industrial do Brasil
+Title: Brasil - Mapa Industrial
 Section: cartografia-tatil
 save_as: cartografia-tatil/mapas-tateis-para-o-ensino/brasil-industria.html
 Tags: recursos-didaticos
@@ -45,7 +45,7 @@ Tags: recursos-didaticos
 
 {%
     set maps = {
-        'Mapa Industrial do Brasil': {
+        'Brasil - Mapa Industrial': {
             '': [
                 {
                     'title': 'Mapa Tátil',

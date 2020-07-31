@@ -1,4 +1,4 @@
-Title: Bacias Hidrográficas do Brasil
+Title: Brasil - Bacias Hidrográficas
 Section: cartografia-tatil
 save_as: cartografia-tatil/mapas-tateis-para-o-ensino/brasil-bacias-hidrograficas.html
 Tags: recursos-didaticos
@@ -45,7 +45,7 @@ Tags: recursos-didaticos
 
 {%
     set maps = {
-        'Bacias Hidrográficas do Brasil': {
+        'Brasil - Bacias Hidrográficas': {
             '': [
                 {
                     'title': 'Mapa Tátil',

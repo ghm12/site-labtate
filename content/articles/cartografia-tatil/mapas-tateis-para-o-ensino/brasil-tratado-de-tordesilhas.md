@@ -1,6 +1,6 @@
-Title: Região Sul do Brasil
+Title: Brasil - Tratado de Tordesilhas
 Section: cartografia-tatil
-save_as: cartografia-tatil/mapas-tateis-para-o-ensino/regiao-sul.html
+save_as: cartografia-tatil/mapas-tateis-para-o-ensino/brasil-tratado-de-tordesilhas.html
 Tags: recursos-didaticos
 
 (Clique nas imagens para abri-la)
@@ -45,21 +45,23 @@ Tags: recursos-didaticos
 
 {%
     set maps = {
-        'Região Sul do Brasil': {
+        'Brasil - Tratado de Tordesilhas': {
             '': [
                 {
                     'title': 'Mapa Tátil',
-                    'imgs': ['regiao-sul-tatil.jpg'],
+                    'imgs': ['tratado-de-tordesilhas-tatil.jpg'],
                     'size': '33,5x50,5cm',
                 },
                 {
                     'title': 'Mapa de Baixa Visão',
-                    'imgs': ['regiao-sul-baixa-visao.jpg'],
+                    'imgs': ['tratado-de-tordesilhas-baixa-visao.jpg',
+                             'tratado-de-tordesilhas-baixa-visao-legenda.jpg'],
                     'size': '33,5x50,5cm',
                 },
                 {
                     'title': 'Mapa Microcapsulado',
-                    'imgs': ['regiao-sul-microcapsulado.jpg'],
+                    'imgs': ['tratado-de-tordesilhas-microcapsulado.jpg',
+                             'tratado-de-tordesilhas-microcapsulado-legenda.jpg'],
                     'size': '33,5x50,5cm',
                 },
             ]

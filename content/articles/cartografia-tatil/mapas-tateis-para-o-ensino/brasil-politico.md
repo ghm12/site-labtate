@@ -1,4 +1,4 @@
-Title: Mapa Político do Brasil
+Title: Brasil - Mapa Político
 Section: cartografia-tatil
 save_as: cartografia-tatil/mapas-tateis-para-o-ensino/brasil-politico.html
 Tags: recursos-didaticos
@@ -45,7 +45,7 @@ Tags: recursos-didaticos
 
 {%
     set maps = {
-        'Mapa Político do Brasil': {
+        'Brasil - Mapa Político': {
             '': [
                 {
                     'title': 'Mapa Tátil',

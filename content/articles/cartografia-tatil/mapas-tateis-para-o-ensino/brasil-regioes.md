@@ -1,4 +1,4 @@
-Title: Regiões do Brasil
+Title: Brasil - Regiões
 Section: cartografia-tatil
 save_as: cartografia-tatil/mapas-tateis-para-o-ensino/brasil-regioes.html
 Tags: recursos-didaticos
@@ -45,7 +45,7 @@ Tags: recursos-didaticos
 
 {%
     set maps = {
-        'Regiões do Brasil': {
+        'Brasil - Regiões': {
             '': [
                 {
                     'title': 'Mapa Tátil',

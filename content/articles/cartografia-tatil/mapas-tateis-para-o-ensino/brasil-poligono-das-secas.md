@@ -1,4 +1,4 @@
-Title: Polígono das Secas - Brasil
+Title: Brasil - Poligono das Secas
 Section: cartografia-tatil
 save_as: cartografia-tatil/mapas-tateis-para-o-ensino/brasil-poligono-das-secas.html
 Tags: recursos-didaticos
@@ -45,7 +45,7 @@ Tags: recursos-didaticos
 
 {%
     set maps = {
-        'Polígono das Secas': {
+        'Brasil - Poligono das Secas': {
             '': [
                 {
                     'title': 'Mapa Tátil',

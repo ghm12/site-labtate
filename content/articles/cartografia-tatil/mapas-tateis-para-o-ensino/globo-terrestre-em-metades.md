@@ -1,4 +1,4 @@
-Title: Globo Terrestre Dividido em Duas Metades
+Title: Globo Terrestre dividido em duas metades
 Section: cartografia-tatil
 save_as: cartografia-tatil/mapas-tateis-para-o-ensino/globo-terrestre-em-metades.html
 Tags: recursos-didaticos
@@ -45,7 +45,7 @@ Tags: recursos-didaticos
 
 {%
     set maps = {
-        'Globo Dividido em Duas Metades': {
+        'Globo Terrestre dividido em duas metades': {
             '': [
                 {
                     'title': 'Mapa Tátil',

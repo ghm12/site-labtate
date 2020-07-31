@@ -1,4 +1,4 @@
-Title: Vegetação Original do Brasil
+Title: Brasil - Vegetação Original
 Section: cartografia-tatil
 save_as: cartografia-tatil/mapas-tateis-para-o-ensino/brasil-vegetacao-original.html
 Tags: recursos-didaticos
@@ -45,7 +45,7 @@ Tags: recursos-didaticos
 
 {%
     set maps = {
-        'Vegetação Original do Brasil': {
+        'Brasil - Vegetação Original': {
             '': [
                 {
                     'title': 'Mapa Tátil',

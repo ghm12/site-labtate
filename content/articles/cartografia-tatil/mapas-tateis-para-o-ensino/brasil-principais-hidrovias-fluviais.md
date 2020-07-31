@@ -1,4 +1,4 @@
-Title: Principais Hidrovias Fluviais do Brasil
+Title: Brasil - Principais Hidrovias Fluviais
 Section: cartografia-tatil
 save_as: cartografia-tatil/mapas-tateis-para-o-ensino/brasil-principais-hidrovias-fluviais.html
 Tags: recursos-didaticos
@@ -45,7 +45,7 @@ Tags: recursos-didaticos
 
 {%
     set maps = {
-        'Principais Hidrovias Fluviais do Brasil': {
+        'Brasil - Principais Hidrovias Fluviais': {
             '': [
                 {
                     'title': 'Mapa Tátil',

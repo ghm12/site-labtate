@@ -1,4 +1,4 @@
-Title: Pluviosidade do Brasil
+Title: Brasil - Pluviosidade
 Section: cartografia-tatil
 save_as: cartografia-tatil/mapas-tateis-para-o-ensino/brasil-pluviosidade.html
 Tags: recursos-didaticos
@@ -45,7 +45,7 @@ Tags: recursos-didaticos
 
 {%
     set maps = {
-        'Pluviosidade do Brasil': {
+        'Brasil - Pluviosidade': {
             '': [
                 {
                     'title': 'Mapa Tátil',

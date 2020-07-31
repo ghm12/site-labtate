@@ -1,4 +1,4 @@
-Title: Principais Ferrovias do Brasil
+Title: Brasil - Principais Ferrovias
 Section: cartografia-tatil
 save_as: cartografia-tatil/mapas-tateis-para-o-ensino/brasil-principais-ferrovias.html
 Tags: recursos-didaticos
@@ -45,7 +45,7 @@ Tags: recursos-didaticos
 
 {%
     set maps = {
-        'Principais Ferrovias do Brasil': {
+        'Brasil - Principais Ferrovias': {
             '': [
                 {
                     'title': 'Mapa Tátil',
