@@ -16,7 +16,7 @@ encadernados para sua utilização, ou se preferir, podem ser salvos e utilizado
 diretamente na tela do computador. Os modelos dos mapas táteis podem ser
 copiados e reproduzidos seguindo as recomendações de como elaborar mapas táteis.
 
-<h2>Lista de Atlas para Deficientes Visuais</h2>
+<h2>Atlas para Deficientes Visuais</h2>
 <ul>
     <li><a href="atlas-e-mapas/atlas-de-florianopolis.html">Atlas de Florianópolis</a></li>
     <li><a href="atlas-e-mapas/atlas-geografico-tatil.html">Atlas Geográfico Tátil</a></li>
