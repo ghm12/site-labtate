@@ -25,11 +25,11 @@ Tags: recursos-didaticos
     {% for img in imgs %}
     {% set url = '/materiais/didaticos/cartografia-tatil/atlas-rs/' + img %}
     <a href="{static}{{ url }}">
-    <img src="{static}{{url}}" style="max-width: 50%; object-fit: cover"/>
+    <img src="{static}{{url}}" style="max-width: 40%; object-fit: cover"/>
     </a>
     {% endfor %}
 </div>
-{% if loop.index % 2 == 0 %}
+{% if loop.index % 1 == 0 %}
 <div class="w-100">
 </div>
 {% endif %}

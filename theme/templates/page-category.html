@@ -20,7 +20,7 @@
             <ul>
                 {% for article in projects -%}
                 <li>
-                    <a href="{{ SITEURL }}/{{ article.url }}">
+                    <a href="{{ SITEURL }}/{{ article.save_as }}">
                         {{ article.title }}
                     </a>
                     <br>
@@ -35,15 +35,9 @@
             <ul>
                 {% for article in publications -%}
                 <li>
-                    {%- if article.section == 'cartografia-escolar' -%}
-                    <a href="{{ SITEURL }}/publicacoes/{{ article.slug }}">
+                    <a href="{{ SITEURL }}/{{ article.save_as }}">
                         {{ article.title }}
                     </a>
-                    {%- else -%}
-                    <a href="{{ SITEURL }}/{{ article.section }}/publicacoes/{{ article.slug }}">
-                        {{ article.title }}
-                    </a>
-                    {%- endif -%}
                 </li>
                 {%- endfor %}
             </ul>
@@ -54,7 +48,7 @@
             <ul>
                 {% for article in monographies -%}
                 <li>
-                    <a href="{{ SITEURL }}/monografias/{{ article.slug }}">
+                    <a href="{{ SITEURL }}/{{ article.save_as }}">
                         {{ article.title }}
                     </a>
                 </li>
@@ -70,7 +64,7 @@
                 {%- if article.section == page.section
                     and article.category == 'livros' -%}
             <li>
-                <a href="{{ SITEURL }}/{{ article.section }}/livros/{{ article.slug }}">
+                <a href="{{ SITEURL }}/{{ article.save_as }}">
                     {{ article.title }}
                 </a>
             </li>
