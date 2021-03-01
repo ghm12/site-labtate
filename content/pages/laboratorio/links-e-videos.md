@@ -23,7 +23,7 @@ save_as: laboratorio/links-e-videos.html
 - [DGI/INPE](http://www.dgi.inpe.br/CDSR/)
 - [Elizabet Dias de Sá - Consultora em Educação inclusiva](http://www.bancodeescola.com/)
 - [Engefoto](http://www.engefoto.com.br/)
-- [Esteio](http://www..esteio.com.br/)
+- [Esteio](http://www.esteio.com.br/)
 - [Fundação Dorina Nowill](http://www.fundacaodorina.org.br/)
 - [IBGE Teen](http://teen.ibge.gov.br/)
 - [IBGE](http://7a12.ibge.gov.br/)
